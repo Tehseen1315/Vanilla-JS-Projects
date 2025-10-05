@@ -1,1 +1,1 @@
-JavaScript Projects 
+Javascript Projects 
